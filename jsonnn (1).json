@@ -8,9 +8,9 @@
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-    "inter_max": "37c0fd7e2939a3be",
-    "max_banner": "13482be8f771efc7",
-    "Native_max": "76d87171404718ed",
+    "inter_max": "0ca7af64937f833d",
+    "max_banner": "2a86b2c7330049b5",
+    "Native_max": "c3d68868c33b72f7",
 
     "startapp_id": "139480955",
 
@@ -23,39 +23,40 @@
 
     "Image_cpaLink" : "",
     "LinkCpa": "",
+    
 
-    "ImageUrl_banner": "",
+    "ImageUrl_banner": "https://iili.io/HLnwB0N.png",
     "LinkCpa_banner": "",
-    "ImageUrl_banner1": "",
+    "ImageUrl_banner1": "https://iili.io/HLnwB0N.png",
     "LinkCpa_banner1": "",
-    "ImageUrl_banner2": "",
+    "ImageUrl_banner2": "https://iili.io/HLnwB0N.png",
     "LinkCpa_banner2": "",
 
-    "Image_exit": "",
+    "Image_exit": "https://iili.io/HLnwB0N.png",
     "link_exit": "",
 
-    "privacy" : "https://policies.google.com/privacy?hl=en-US",
-    "url_exit": "https://www.google.com/",
-    "url_bottom_coins": "https://www.google.com/",
+    "privacy" : "",
+    "url_exit": "",
+    "url_bottom_coins": "",
 
-    "Text_tips1": "Plánovat události a sdílet je s přáteli bez námahy",
-    "Text_tips2": "Welcome koolssa poley",
-    "Text_tips3": "A objev nové možnosti s Koolssa Poleym!",
-    "Text_tips4": "Koolssa Poley je inovativní mobilní aplikace",
-    "Text_tips5": "Která zjednodušuje tvůj život s přehledným rozhraním.",
-    "Text_tips6": "Svěží design a uživatelsky přívětivé prostředí ",
-    "Text_tips7": "Umocňují tvoji produktivitu a pohodlí.",
-    "Text_tips8": "S Koolssa Poleym můžeš organizovat své úkoly,",
+    "Text_tips1": "Welcome Our APP",
+    "Text_tips2": " App Recommendations and Reviews",
+    "Text_tips3": "Performance Tips ",
+    "Text_tips4": "Task  and Productivity",
+    "Text_tips5": " Problem Solving",
+    "Text_tips6": " Education and Resources ",
+    "Text_tips7": "Security and Privacy Tools",
+    "Text_tips8": " Community and Discussion",
 
 
-    "Text_title1": "Sdílej své úspěchy a pokroky s ostatními,",
-    "Text_title2": "A vytváření seznamů ti usnadní nakupování",
-    "Text_title3": "Integrovaný kalendář ti pomáhá udržet přehled",
-    "Text_title4": "Jednoduchá synchronizace s cloudovým úložištěm ",
-    "Text_title5": "Zajišťuje, že tvoje data jsou vždy v bezpečí",
-    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
-    "Text_title7": "Využij svůj telefon k plnému potenciálu.",
-    "Text_title8": "Stáhni si aplikaci ještě dnes",
+    "Text_title1": "the accessibility features and special capabilities of your Android device with dedicated section",
+    "Text_title2": "ask questions, and seek support through ",
+    "Text_title3": "Stay up-to-date with the latest Android updates and features using youss tGLOW APP",
+    "Text_title4": "youss tGLOW has a huge history ",
+    "Text_title5": "youss tGLOW prioritizes the security and privacy of its users",
+    "Text_title6": "Stay informed with youss tGLOW ",
+    "Text_title7": "youss tGLOW offers a robust portfolio management  ",
+    "Text_title8": "youss tGLOW in history and place",
 
 
     "Text_buttonCoins" : "Male ",
