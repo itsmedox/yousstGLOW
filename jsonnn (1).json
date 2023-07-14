@@ -1,0 +1,72 @@
+{
+  "ADS": {
+
+
+    "networkAd": "xx",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "37c0fd7e2939a3be",
+    "max_banner": "13482be8f771efc7",
+    "Native_max": "76d87171404718ed",
+
+    "startapp_id": "139480955",
+
+    "show_cpa": false,
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+    "cpa_button_text": "Get It Now!",
+  
+    
+
+    "Image_cpaLink" : "",
+    "LinkCpa": "",
+
+    "ImageUrl_banner": "",
+    "LinkCpa_banner": "",
+    "ImageUrl_banner1": "",
+    "LinkCpa_banner1": "",
+    "ImageUrl_banner2": "",
+    "LinkCpa_banner2": "",
+
+    "Image_exit": "",
+    "link_exit": "",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "https://www.google.com/",
+    "url_bottom_coins": "https://www.google.com/",
+
+    "Text_tips1": "Plánovat události a sdílet je s přáteli bez námahy",
+    "Text_tips2": "Welcome koolssa poley",
+    "Text_tips3": "A objev nové možnosti s Koolssa Poleym!",
+    "Text_tips4": "Koolssa Poley je inovativní mobilní aplikace",
+    "Text_tips5": "Která zjednodušuje tvůj život s přehledným rozhraním.",
+    "Text_tips6": "Svěží design a uživatelsky přívětivé prostředí ",
+    "Text_tips7": "Umocňují tvoji produktivitu a pohodlí.",
+    "Text_tips8": "S Koolssa Poleym můžeš organizovat své úkoly,",
+
+
+    "Text_title1": "Sdílej své úspěchy a pokroky s ostatními,",
+    "Text_title2": "A vytváření seznamů ti usnadní nakupování",
+    "Text_title3": "Integrovaný kalendář ti pomáhá udržet přehled",
+    "Text_title4": "Jednoduchá synchronizace s cloudovým úložištěm ",
+    "Text_title5": "Zajišťuje, že tvoje data jsou vždy v bezpečí",
+    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
+    "Text_title7": "Využij svůj telefon k plnému potenciálu.",
+    "Text_title8": "Stáhni si aplikaci ještě dnes",
+
+
+    "Text_buttonCoins" : "Male ",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "True",
+
+    "Click_inter": "0"
+
+  }
+}
